@@ -1,1 +1,27 @@
-
+"admin": {
+  "modules": {
+    "imageserver": true,
+    "extensions": true,
+    "inwx": false,
+    "plesk": false,
+  },
+  "widgets": {
+    "imageserver": true,
+    "steamstatus": true,
+    "ts3sales": true,
+    "birthdaylist": true,
+    "inwx": false,
+    "plesk": false,
+  },
+},
+"members": {
+  "modules": {
+    "inwx": false,
+    "plesk": false,
+  },
+  "widgets": {
+    "imageserver": true,
+    "inwx": false,
+    "plesk": false,
+  },
+}
