@@ -1,1 +1,9 @@
-
+"gameserver_modules": {
+  "minecraft_modpack_manager": true,
+  "minecraft_plugin_manager": true,
+  "rust_umod_manager": true,
+  "7dtd_umod_manager": true,
+  "hurtworld_umod_manager": true,
+  "stationeers_console": true,
+  "pcars2_configtool": true,
+}
