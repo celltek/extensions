@@ -1,9 +1,9 @@
-"admin": {
-  "modules": {
+{"admin":{
+  "modules":{
     "imageserver": true,
     "extensions": true,
     "inwx": false,
-    "plesk": false,
+    "plesk": false
   },
   "widgets": {
     "imageserver": true,
@@ -11,17 +11,18 @@
     "ts3sales": true,
     "birthdaylist": true,
     "inwx": false,
-    "plesk": false,
-  },
+    "plesk": false
+  }
 },
 "members": {
   "modules": {
     "inwx": false,
-    "plesk": false,
+    "plesk": false
   },
   "widgets": {
     "imageserver": true,
     "inwx": false,
-    "plesk": false,
-  },
+    "plesk": false
+  }
+}
 }
